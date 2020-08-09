@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://_N_E/./components/ApplyLink/index.module.scss"],"names":[],"mappings":"AAAA,uBACE,gBAGE,8BACE","file":"static/css/3117a6fb4f638e4f44d2.css","sourcesContent":[".wrap {\n  margin-top: 24px;\n\n  form {\n    > * {\n      margin-top: 12px;\n    }\n  }\n}\n"],"sourceRoot":""}
